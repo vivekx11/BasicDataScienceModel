@@ -247,6 +247,7 @@ Is project se aap seekh sakte ho:
 ## 📜 License
 
 This project is for educational purposes.
+basic
 
 ---
 
