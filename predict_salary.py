@@ -1,7 +1,7 @@
 import pandas as pd
 import joblib
 
-# Load trained model and encoders
+# Load trained model and encoders.....
 print("Loading trained model...")
 model = joblib.load('salary_prediction_model.pkl')
 label_encoders = joblib.load('label_encoders.pkl')
