@@ -1,4 +1,4 @@
-# 📊 Employee Salary Prediction - Complete Data Science Project
+# 📊 Employee Salary Prediction --- Complete Data Science Project
 
 ## 🎯 Project Overview
 
