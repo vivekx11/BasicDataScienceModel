@@ -1,6 +1,6 @@
 import pandas as pd
 
-# Dataset load karo
+# Dataset load karo...
 df = pd.read_csv("employee_company_clean_data.csv")
 
 # 1️⃣ Total Employees
