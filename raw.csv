@@ -1,4 +1,4 @@
-employee_id,employee_name,age,salary,company_name,department,city,joining_date,email
+employee_id,employee_name,age,salary,company_name,department,city,joining_date,email.
 1.0,,40.0,45000.0,InnoSoft,HR,Pune,,employee1@company.com
 2.0,Employee_2,22.0,30000.0,TechNova,HR,Delhi,invalid_date,employee2@company.com
 3.0,Employee_3,150.0,80000.0,InnoSoft,Marketing,Chennai,,employee3@company.com
