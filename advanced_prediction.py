@@ -6,7 +6,7 @@ print("="*80)
 print(" "*20 + "ADVANCED SALARY PREDICTION SYSTEM")
 print("="*80)
 
-# Load model and encoders
+# Load model and encoders...
 model = joblib.load('best_model.pkl')
 label_encoders = joblib.load('label_encoders.pkl')
 
