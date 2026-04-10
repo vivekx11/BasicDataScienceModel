@@ -6,7 +6,7 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_squared_error, r2_score, mean_absolute_error
 import joblib
 
-# Load clean dataset
+# Load clean dataset..
 print("Loading clean dataset...")
 df = pd.read_csv('employee_company_clean_data.csv')
 
